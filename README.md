@@ -1,4 +1,7 @@
-# gatsby-starter-default
-The default Gatsby starter
+# ReadMe for the Personal WebSite of Ross Davis 
+Welcome to the repo of my personal website rossadavis.com.  I build this using Gatsby
+Static-site-generator.  https://github.com/gatsbyjs/gatsby
 
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-example-site
+Feel free to look around and check it out.  Any comments or suggestions are
+appreciated.
+
